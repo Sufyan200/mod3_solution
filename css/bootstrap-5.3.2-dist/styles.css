@@ -20,6 +20,7 @@ p{
     text-align: center;
 }
 
+
 @media(min-width:768px) and (max-width:991px){
     .navbar-expand-lg .navbar-toggler{
         display: none;
