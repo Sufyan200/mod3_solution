@@ -1,0 +1,28 @@
+
+h1{
+    padding-top: 12px;
+    padding-bottom: 30px;
+}
+.item{
+    background-color: gray;
+    text-align:justify;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+p{
+    padding: 10px;
+    overflow: hidden;
+}
+.navbar-brand{
+    font-size: 30px;
+}
+.list-items{
+    text-align: center;
+}
+
+@media(min-width:768px) and (max-width:991px){
+    .navbar-expand-lg .navbar-toggler{
+        display: none;
+    }
+}
+
